@@ -1,0 +1,8 @@
+start_id,type,end_id
+Document360,HAS_MODULE,AI & Automation
+Document360,HAS_MODULE,Access Control
+Document360,HAS_MODULE,Analytics & Feedback
+Authoring & Editing,HAS_SUBMODULE,Formatting
+Formatting,HAS_FEATURE,Bold/Italic/Underline
+Authoring & Editing,HAS_SUBMODULE,Lists
+Lists,HAS_FEATURE,Multi-level Checklists

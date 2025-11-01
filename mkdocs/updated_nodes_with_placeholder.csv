@@ -1,0 +1,10 @@
+id,label,description
+Document360,Product,Document360
+AI & Automation,Module,AI & Automation
+Access Control,Module,Access Control
+Analytics & Feedback,Module,Analytics & Feedback
+Authoring & Editing,Module,Authoring & Editing
+Formatting,SubModule,Formatting
+Bold/Italic/Underline,Feature,Bold/Italic/Underline
+Lists,SubModule,Lists
+Multi-level Checklists,Feature,Multi-level Checklists

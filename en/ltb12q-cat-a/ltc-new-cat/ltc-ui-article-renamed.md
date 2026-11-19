@@ -1,7 +1,8 @@
 ---
-title: ltc ui article
+title: ltc ui article renamed
+hidden: true
 seo:
-  title: ltc ui article
+  title: ltc ui article renamed
 display:
   toc: true
   outline: true

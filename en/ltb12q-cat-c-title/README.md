@@ -1,12 +1,10 @@
 ---
 type: page
-title: ltb12q cat C title
-internalDescription: lt desc
+title: ltb12q cat C
 icon: fa-book
 hidden: true
 seo:
-  title: lt cat seo
-  description: lt
+  title: ltb12q cat C renamed
 display:
   toc: true
   outline: true

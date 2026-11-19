@@ -1,8 +1,7 @@
 ---
-type: index
-title: ltc sub index
+title: ltc new cat titled
 seo:
-  title: ltc sub index
+  title: ltc new cat titled
 display:
   toc: true
   outline: true

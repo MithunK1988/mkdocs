@@ -1,8 +1,7 @@
 ---
 title: ltb12q cat A renamed
-internalDescription: ltc category description
 seo:
-  title: ltb12q cat A renamed
+  title: ltb12q cat A
 display:
   toc: true
   outline: true

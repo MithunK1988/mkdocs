@@ -1,5 +1,5 @@
 ---
-title: How-to guides
+title: How-to guides (changed in Git)
 seo:
   title: How-to guides
 display:

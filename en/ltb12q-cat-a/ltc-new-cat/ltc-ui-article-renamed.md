@@ -3,7 +3,6 @@ title: ltc ui article renamed
 seo:
   title: ltc ui article renamed
 display:
-  toc: true
   outline: true
 feedback:
   comments: true

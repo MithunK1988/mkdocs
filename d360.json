@@ -6,6 +6,53 @@
   "nodes": [
     {
       "paths": [
+        { "langs": ["en"], "path": "ltc-depth-1/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/README.md" }
+              ],
+              "children": [
+                {
+                  "paths": [
+                    { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/ltc-depth-4/README.md" }
+                  ],
+                  "children": [
+                    {
+                      "paths": [
+                        { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/ltc-depth-4/ltc-depth-5/README.md" }
+                      ],
+                      "children": [
+                        {
+                          "paths": [
+                            { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/ltc-depth-4/ltc-depth-5/ltc-depth-6/README.md" }
+                          ],
+                          "children": [
+                            {
+                              "paths": [
+                                { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/ltc-depth-4/ltc-depth-5/ltc-depth-6/ltc-depth-7/README.md" }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
         { "langs": ["en"], "path": "getting-started-guides/README.md" }
       ],
       "children": [

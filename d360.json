@@ -145,18 +145,6 @@
       "paths": [
         { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
-    },
-    {
-      "paths": [
-        { "langs": ["en"], "path": "ltmu-cat/README.md" }
-      ],
-      "children": [
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltmu-cat/ltmu-s2-1.md" }
-          ]
-        }
-      ]
     }
   ]
 }

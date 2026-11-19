@@ -1,10 +1,12 @@
 ---
 title: ltc git rich
+status:
+  indicator: updated
 ---
 
 # ltc git rich
 
-A GitHub-authored file.
+A GitHub-authored file, edited again in Git.
 
 | A | B |
 |---|---|

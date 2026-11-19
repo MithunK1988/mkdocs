@@ -1,12 +1,15 @@
 ---
-title: ltc git rich
+title: ltc git rich (A renamed)
+hidden: true
+seo:
+  title: ltc git rich (A renamed)
 status:
   expiresAt: 2026-12-31
 ---
 
 # ltc git rich
 
-A GitHub-authored file, edited again in Git (valid update indicator). Edited in Document360. MU-B edit by plus1.
+A GitHub-authored file, edited again in Git (valid update indicator). Edited in Document360. MU-B edit by plus1. [B after rename+hide]
 
 | A | B |
 |---|---|

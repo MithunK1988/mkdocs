@@ -1,13 +1,13 @@
 ---
 title: ltc git rich
 status:
-  indicator: updated
+  indicator: update
   expiresAt: 2026-12-31
 ---
 
 # ltc git rich
 
-A GitHub-authored file, edited again in Git (indicator with expiry).
+A GitHub-authored file, edited again in Git (valid update indicator).
 
 | A | B |
 |---|---|

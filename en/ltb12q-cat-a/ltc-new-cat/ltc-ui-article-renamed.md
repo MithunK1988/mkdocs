@@ -1,6 +1,5 @@
 ---
 title: ltc ui article renamed
-hidden: true
 seo:
   title: ltc ui article renamed
 display:

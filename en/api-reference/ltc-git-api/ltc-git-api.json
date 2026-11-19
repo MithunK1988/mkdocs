@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "ltc git api",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Spec pushed from GitHub"
   },
   "servers": [
@@ -15,7 +15,7 @@
       "get": {
         "operationId": "ltcGet",
         "summary": "Get echo",
-        "description": "Original description",
+        "description": "Description changed in Git",
         "responses": {
           "200": {
             "description": "ok"
@@ -27,6 +27,17 @@
       "get": {
         "operationId": "ltcUuid",
         "summary": "Get uuid",
+        "responses": {
+          "200": {
+            "description": "ok"
+          }
+        }
+      }
+    },
+    "/ip": {
+      "get": {
+        "operationId": "ltcIp",
+        "summary": "Get IP",
         "responses": {
           "200": {
             "description": "ok"

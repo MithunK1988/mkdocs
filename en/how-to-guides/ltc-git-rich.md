@@ -6,7 +6,7 @@ status:
 
 # ltc git rich
 
-A GitHub-authored file, edited again in Git (valid update indicator). Edited in Document360.
+A GitHub-authored file, edited again in Git (valid update indicator). Edited in Document360. MU-B edit by plus1.
 
 | A | B |
 |---|---|

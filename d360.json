@@ -18,6 +18,11 @@
           "paths": [
             { "langs": ["en"], "path": "getting-started-guides/rwarmk.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "getting-started-guides/ltc-sub-index/README.md" }
+          ]
         }
       ]
     },
@@ -31,6 +36,62 @@
             { "langs": ["en"], "path": "how-to-guides/how-to-guides-1.md" }
           ]
         }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltb12q-cat-a/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltb12q-cat-c-title/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltb12q-cat-c-title/ltb12q-art-2.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltc-new-cat/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-new-cat/ltc-ui-article.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "clone-ltc-new-cat/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltb12q-cat-b/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltb12q-cat-b/ltb12q-art-1-renamed.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/ltb12q-api-one/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/ltb12q-api-two/README.md" }
       ]
     }
   ]

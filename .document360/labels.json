@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "labels": []
+  "labels": [
+    {
+      "uniqueId": "ltc-label",
+      "name": "ltc-label",
+      "description": "ltc"
+    }
+  ]
 }

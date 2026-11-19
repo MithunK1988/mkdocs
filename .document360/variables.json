@@ -1,3 +1,15 @@
 {
-  "variables": []
+  "variables": [
+    {
+      "name": "ltb12qv1",
+      "global": false,
+      "languages": [
+        {
+          "code": "en",
+          "value": "val ltb12qv1",
+          "default": true
+        }
+      ]
+    }
+  ]
 }

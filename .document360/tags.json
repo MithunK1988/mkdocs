@@ -1,4 +1,10 @@
 {
   "groups": [],
-  "tags": []
+  "tags": [
+    {
+      "uniqueId": "ltb12q-tag",
+      "name": "ltb12q-tag2",
+      "description": "lt2"
+    }
+  ]
 }

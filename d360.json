@@ -227,6 +227,13 @@
         {
           "paths": [
             { "langs": ["en"], "path": "ltrv-x/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltrv-y/ltrv-x/ltrv-art-in-x.md" }
+              ]
+            }
           ]
         }
       ]

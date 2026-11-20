@@ -7,6 +7,8 @@ display:
   outline: true
 feedback:
   comments: true
+customFields:
+  t1: ltrg custom value
 ---
 
 Lotus reader run three (changed in Git for 106) [A conflict edit]. [ltrg rich text edit] **ltrg md edit [tab B text]**

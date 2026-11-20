@@ -9,4 +9,4 @@ feedback:
   comments: true
 ---
 
-Lotus reader run article one. [+1 W body edit UC-114] [+1 B pending edit for 106]
+Lotus reader run article one. [+1 W body edit UC-114] [+1 B pending edit for 106] [+1 typed during publish 095] [+1 B pending for 110]

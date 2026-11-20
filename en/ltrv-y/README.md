@@ -1,6 +1,5 @@
 ---
 title: ltrv Y
-internalDescription: ltrv repro
 seo:
   title: ltrv Y
 display:

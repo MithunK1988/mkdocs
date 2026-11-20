@@ -1,6 +1,5 @@
 ---
 title: ltrv X
-internalDescription: ltrv repro
 seo:
   title: ltrv X
 display:

@@ -221,12 +221,14 @@
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "ltrv-x/README.md" }
-      ]
-    },
-    {
-      "paths": [
         { "langs": ["en"], "path": "ltrv-y/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltrv-x/README.md" }
+          ]
+        }
       ]
     }
   ]

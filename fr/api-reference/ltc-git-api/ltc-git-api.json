@@ -3,7 +3,7 @@
   "info": {
     "title": "API git ltc",
     "version": "1.0.1",
-    "description": "Spécification envoyée depuis GitHub (DOC-API-06)"
+    "description": "Spécification envoyée depuis GitHub (DOC-API-06 contrôle texte seul)"
   },
   "servers": [
     {
@@ -34,7 +34,7 @@
         }
       }
     },
-    "/adresse-ip": {
+    "/ip": {
       "get": {
         "operationId": "ltcIp",
         "summary": "Obtenir IP",

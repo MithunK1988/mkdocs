@@ -10,6 +10,31 @@
           "default": true
         }
       ]
+    },
+    {
+      "name": "ltrgvar1_1795159381007",
+      "global": true,
+      "value": "ltrg 1"
+    },
+    {
+      "name": "ltrgvar2_1795159381007",
+      "global": true,
+      "value": "ltrg 2"
+    },
+    {
+      "name": "ltrgvar3_1795159381007",
+      "global": true,
+      "value": "ltrg 3"
+    },
+    {
+      "name": "xb_vara",
+      "global": true,
+      "value": "xb var a value"
+    },
+    {
+      "name": "xb_varb",
+      "global": true,
+      "value": "xb_varb value"
     }
   ]
 }

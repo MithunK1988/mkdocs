@@ -9,3 +9,5 @@ display:
 feedback:
   comments: true
 ---
+
+xb page category body

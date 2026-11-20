@@ -143,11 +143,6 @@
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
-      ]
-    },
-    {
-      "paths": [
         { "langs": ["en"], "path": "ltrg-page-a/README.md" }
       ],
       "children": [
@@ -212,6 +207,11 @@
             { "langs": ["en"], "path": "clone-xb-cat-a/clone-xb-art-1-1.md" }
           ]
         }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
     }
   ]

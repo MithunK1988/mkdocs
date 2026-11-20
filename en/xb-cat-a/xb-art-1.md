@@ -9,4 +9,4 @@ feedback:
   comments: true
 ---
 
-xb body one for bug 360660 retest
+xb body one for bug 360660 retest EDIT2

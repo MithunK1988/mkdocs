@@ -30,11 +30,6 @@
       "name": "xb_vara",
       "global": true,
       "value": "xb var a value"
-    },
-    {
-      "name": "xb_varb",
-      "global": true,
-      "value": "xb_varb value"
     }
   ]
 }

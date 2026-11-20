@@ -218,6 +218,16 @@
       "paths": [
         { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltrv-x/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltrv-y/README.md" }
+      ]
     }
   ]
 }

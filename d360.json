@@ -148,6 +148,11 @@
       "children": [
         {
           "paths": [
+            { "langs": ["en"], "path": "ltrg-page-a/ltrg-page-b/README.md" }
+          ]
+        },
+        {
+          "paths": [
             { "langs": ["en"], "path": "ltrg-page-b/README.md" }
           ],
           "children": [

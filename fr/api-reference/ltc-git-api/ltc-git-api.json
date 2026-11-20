@@ -1,0 +1,49 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API git ltc",
+    "version": "1.0.1",
+    "description": "Spécification envoyée depuis GitHub (DOC-API-06)"
+  },
+  "servers": [
+    {
+      "url": "https://httpbin.org"
+    }
+  ],
+  "paths": {
+    "/get": {
+      "get": {
+        "operationId": "ltcGet",
+        "summary": "Obtenir écho",
+        "description": "Description changed in Git",
+        "responses": {
+          "200": {
+            "description": "ok"
+          }
+        }
+      }
+    },
+    "/uuid": {
+      "get": {
+        "operationId": "ltcUuid",
+        "summary": "Obtenir uuid",
+        "responses": {
+          "200": {
+            "description": "ok"
+          }
+        }
+      }
+    },
+    "/adresse-ip": {
+      "get": {
+        "operationId": "ltcIp",
+        "summary": "Obtenir IP",
+        "responses": {
+          "200": {
+            "description": "ok"
+          }
+        }
+      }
+    }
+  }
+}

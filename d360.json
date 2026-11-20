@@ -1,12 +1,13 @@
 {
   "serializerVersion": 1,
   "languages": [
-    { "code": "en", "default": true }
+    { "code": "en", "default": true },
+    { "code": "fr" }
   ],
   "nodes": [
     {
       "paths": [
-        { "langs": ["en"], "path": "ltc-depth-1/README.md" }
+        { "langs": ["en", "fr"], "path": "ltc-depth-1/README.md" }
       ],
       "children": [
         {

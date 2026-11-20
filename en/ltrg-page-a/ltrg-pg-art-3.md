@@ -9,7 +9,7 @@ feedback:
   comments: true
 ---
 
-Lotus reader run three. [ltrg rich text edit] **ltrg md edit [tab B text]**
+Lotus reader run three (changed in Git for 106). [ltrg rich text edit] **ltrg md edit [tab B text]**
 
 [d360]: # 'snippet name="ltrgsnip1_1795159381007"'
 

@@ -1,4 +1,5 @@
 ---
+type: page
 title: ltrv Y
 seo:
   title: ltrv Y

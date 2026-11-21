@@ -256,14 +256,48 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "ltui-a/ltui-art-2.md" }
+            { "langs": ["en"], "path": "ltui-b/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltui-a/ltui-art-2.md" }
+              ]
+            }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltui-a/clone-ltui-b/README.md" }
           ]
         }
       ]
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "ltui-b/README.md" }
+        { "langs": ["en"], "path": "ltgap-c/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltgap-c/ltgap-a1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltgap-c/ltgap-a2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltgap-c/ltgap-a3.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltgap-d/README.md" }
       ]
     }
   ]

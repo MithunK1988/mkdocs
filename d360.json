@@ -243,6 +243,28 @@
       "paths": [
         { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltui-a/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltui-a/ltui-art-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltui-a/ltui-art-2.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "ltui-b/README.md" }
+      ]
     }
   ]
 }

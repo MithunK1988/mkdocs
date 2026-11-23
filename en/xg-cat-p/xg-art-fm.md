@@ -2,13 +2,13 @@
 title: xg_ art fm
 status:
   indicator: update
-  expiresAt: 2026-12-31
+  expiresAt: 2026-12-30
 tags:
   - xgtag1
 seo:
   title: xg_ art fm
 display:
-  toc: false
+  toc: true
   outline: true
 feedback:
   comments: true

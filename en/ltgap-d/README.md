@@ -1,5 +1,5 @@
 ---
-title: ltgap D
+title: ltgap D git
 seo:
   title: ltgap D
 display:

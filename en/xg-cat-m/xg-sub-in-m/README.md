@@ -1,7 +1,7 @@
 ---
-title: xg_ art del
+title: xg_ sub in M
 seo:
-  title: xg_ art del
+  title: xg_ sub in M
 display:
   toc: true
   outline: true

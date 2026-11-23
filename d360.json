@@ -301,6 +301,57 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xg-cat-p/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xg-cat-p/xg-art-fm.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xg-cat-p/xg-art-rel.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xg-cat-p/xg-art-rev.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xg-cat-q/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xg-cat-m/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xg-cat-m/xg-art-m1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xg-cat-del/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xg-cat-del/xg-art-del.md" }
+          ]
+        }
+      ]
     }
   ]
 }

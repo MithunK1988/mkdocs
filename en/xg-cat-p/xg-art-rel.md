@@ -7,4 +7,9 @@ display:
   outline: true
 feedback:
   comments: true
+status:
+  indicator: new
+  expiresAt: 2026-12-15
 ---
+
+xh3 body line added in Git.

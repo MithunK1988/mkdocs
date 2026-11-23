@@ -236,6 +236,18 @@
               ]
             }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltgap-c-user/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltgap-c-user/ltgap-a1-install.md" }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -268,19 +280,7 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "ltgap-c/ltgap-a2.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltgap-c/README.md" }
-          ],
-          "children": [
-            {
-              "paths": [
-                { "langs": ["en"], "path": "ltgap-c/ltgap-a1.md" }
-              ]
-            }
+            { "langs": ["en"], "path": "ltgap-c-user/ltgap-a2.md" }
           ]
         }
       ]
@@ -297,7 +297,7 @@
       "children": [
         {
           "paths": [
-            { "langs": ["en"], "path": "ltgap-c/ltgap-a3.md" }
+            { "langs": ["en"], "path": "ltgap-c-user/ltgap-a3.md" }
           ]
         }
       ]

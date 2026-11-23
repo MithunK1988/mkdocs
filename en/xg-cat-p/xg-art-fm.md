@@ -1,7 +1,7 @@
 ---
 title: xg_ art fm
 status:
-  indicator: update
+  indicator: updated
   expiresAt: 2026-12-31
 tags:
   - xgtag1

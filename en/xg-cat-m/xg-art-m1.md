@@ -7,4 +7,7 @@ display:
   outline: true
 feedback:
   comments: true
+status:
+  indicator: update
+  expiresAt: 2026-12-20
 ---

@@ -327,16 +327,18 @@
     {
       "paths": [
         { "langs": ["en"], "path": "xg-cat-q/README.md" }
-      ]
-    },
-    {
-      "paths": [
-        { "langs": ["en"], "path": "xg-cat-m/README.md" }
       ],
       "children": [
         {
           "paths": [
-            { "langs": ["en"], "path": "xg-cat-m/xg-art-m1.md" }
+            { "langs": ["en"], "path": "xg-cat-m/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "xg-cat-m/xg-art-m1.md" }
+              ]
+            }
           ]
         }
       ]

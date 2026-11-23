@@ -8,6 +8,6 @@ display:
 feedback:
   comments: true
 status:
-  indicator: updated
+  indicator: update
   expiresAt: 2026-12-31
 ---

@@ -241,11 +241,6 @@
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
-      ]
-    },
-    {
-      "paths": [
         { "langs": ["en"], "path": "ltui-a/README.md" }
       ],
       "children": [
@@ -288,6 +283,11 @@
             { "langs": ["en"], "path": "ltgap-c/ltgap-a2.md" }
           ]
         }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
     },
     {

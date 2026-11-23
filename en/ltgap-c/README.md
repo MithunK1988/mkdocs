@@ -1,7 +1,7 @@
 ---
 title: ltgap C ren
 seo:
-  title: ltgap C ren
+  title: ltgap C
 display:
   toc: true
   outline: true

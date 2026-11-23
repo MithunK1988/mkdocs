@@ -3,7 +3,7 @@ title: xg_ art rel
 seo:
   title: xg_ art rel
 display:
-  toc: true
+  toc: false
   outline: true
 feedback:
   comments: true

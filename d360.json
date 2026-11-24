@@ -357,11 +357,6 @@
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
-      ]
-    },
-    {
-      "paths": [
         { "langs": ["en"], "path": "xk1-cat-t/README.md" }
       ],
       "children": [
@@ -394,6 +389,11 @@
             { "langs": ["en"], "path": "xk1-cat-r/xk1-art-h.md" }
           ]
         }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
     }
   ]

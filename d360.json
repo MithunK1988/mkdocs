@@ -134,16 +134,6 @@
     },
     {
       "paths": [
-        { "langs": ["en"], "path": "api-reference/ltb12q-api-one/README.md" }
-      ]
-    },
-    {
-      "paths": [
-        { "langs": ["en"], "path": "api-reference/ltb12q-api-two/README.md" }
-      ]
-    },
-    {
-      "paths": [
         { "langs": ["en"], "path": "ltrg-page-a/README.md" }
       ],
       "children": [
@@ -353,11 +343,6 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "paths": [
-        { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
     }
   ]

@@ -88,7 +88,7 @@
           "paths": [
             { "langs": ["en"], "path": "how-to-guides/ltc-git-no-title.md" }
           ]
-        }
+        }, { "paths": [ { "langs": ["en"], "path": "xk3-no-title.md" } ] }
       ]
     },
     {

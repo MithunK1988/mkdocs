@@ -359,6 +359,42 @@
       "paths": [
         { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xk1-cat-t/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xk1-cat-t/xk1-art-t1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xk1-cat-g/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xk1-cat-g/xk1-art-d.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xk1-cat-r/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xk1-cat-r/xk1-art-h.md" }
+          ]
+        }
+      ]
     }
   ]
 }

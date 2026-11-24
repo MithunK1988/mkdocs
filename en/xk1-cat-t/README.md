@@ -1,7 +1,7 @@
 ---
 title: xk1_ cat T gitb
 seo:
-  title: xk1_ cat T d360
+  title: xk1_ cat T
 display:
   toc: true
   outline: true

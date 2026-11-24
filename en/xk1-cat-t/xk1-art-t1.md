@@ -1,7 +1,5 @@
 ---
 title: xk1_ art T1
-status:
-  indicator: updated
 seo:
   title: xk1_ art T1
 display:

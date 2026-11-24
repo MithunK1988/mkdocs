@@ -59,6 +59,16 @@
           "paths": [
             { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-flags.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-badflag.md" }
+          ]
         }
       ]
     },

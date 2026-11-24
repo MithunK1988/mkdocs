@@ -79,11 +79,6 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-gitdel.md" }
-          ]
-        },
-        {
-          "paths": [
             { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
           ]
         }

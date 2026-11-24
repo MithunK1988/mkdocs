@@ -52,7 +52,7 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-git-new.md" }
+            { "langs": ["en", "fr"], "path": "ltc-depth-1/ltsrch-git-new.md" }
           ]
         },
         {

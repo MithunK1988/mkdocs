@@ -1,5 +1,6 @@
 ---
 title: ltsrch zephyrquill draft
+hidden: true
 seo:
   title: ltsrch zephyrquill draft
 search:

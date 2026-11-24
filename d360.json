@@ -52,12 +52,19 @@
         },
         {
           "paths": [
-            { "langs": ["en", "fr"], "path": "ltc-depth-1/ltsrch-git-new.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/README.md" }
+          ],
+          "children": [
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/ltsrch-hidecat-art-one.md" }
+              ]
+            },
+            {
+              "paths": [
+                { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/ltsrch-hidecat-art-two.md" }
+              ]
+            }
           ]
         },
         {
@@ -72,19 +79,7 @@
         },
         {
           "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/README.md" }
-          ],
-          "children": [
-            {
-              "paths": [
-                { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/ltsrch-hidecat-art-one.md" }
-              ]
-            },
-            {
-              "paths": [
-                { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/ltsrch-hidecat-art-two.md" }
-              ]
-            }
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
           ]
         }
       ]
@@ -102,6 +97,11 @@
         {
           "paths": [
             { "langs": ["en"], "path": "getting-started-guides/getting-started-guides-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "getting-started-guides/aud-wf-review-361093.md" }
           ]
         }
       ]

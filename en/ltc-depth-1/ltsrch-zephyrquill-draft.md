@@ -3,7 +3,8 @@ title: ltsrch zephyrquill draft
 seo:
   title: ltsrch zephyrquill draft
 search:
-  exclude: true
+  exclude: false
+  excludeAi: true
 display:
   toc: true
   outline: true

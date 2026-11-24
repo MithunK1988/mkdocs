@@ -1,5 +1,5 @@
 ---
-title: xk1_ cat G
+title: xk1_ cat G git
 seo:
   title: xk1_ cat G
 display:

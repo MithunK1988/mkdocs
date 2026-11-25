@@ -74,6 +74,7 @@
         { "langs": ["en"], "path": "how-to-guides/README.md" }
       ],
       "children": [
+          { "paths": [ { "langs": ["en"], "path": "xn1-placed.md" } ] },
         {
           "paths": [
             { "langs": ["en"], "path": "how-to-guides/how-to-guides-1.md" }

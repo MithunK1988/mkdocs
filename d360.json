@@ -547,6 +547,56 @@
           "paths": [
             { "langs": ["en"], "path": "edge-25nov/cafe-unicode-1.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e00-clean-add.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e03-big-1200kb.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e06-big-frontmatter.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e07-nested-yaml.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e08-invalid-yaml.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e09-crlf-bom.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e10-empty.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e10-frontmatter-only.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e10-no-frontmatter.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e20-special-content.md" }
+          ]
         }
       ]
     }

@@ -6,9 +6,10 @@ status:
 seo:
   title: ltui art 1
 display:
-  toc: true
+  toc: false
   outline: true
 feedback:
   comments: true
 ---
+
 xn1 body line added in Git to refresh the sync baseline.

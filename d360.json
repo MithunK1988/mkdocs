@@ -349,17 +349,12 @@
       "paths": [
         { "langs": ["en"], "path": "xk3-cat-a/README.md" }
       ],
-      "children": [
+      "children": [{ "paths": [ { "langs": ["en"], "path": "xk3-cat-b/README.md" } ] },
         {
           "paths": [
             { "langs": ["en"], "path": "xk3-cat-a/xk3-art-1.md" }
           ]
         }
-      ]
-    },
-    {
-      "paths": [
-        { "langs": ["en"], "path": "xk3-cat-b/README.md" }
       ]
     }
   ]

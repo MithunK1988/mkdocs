@@ -15,4 +15,4 @@ status:
   deprecatedText: "<p>ltdep notice: this article is deprecated (UC-DOC-050 test)</p>"
 ---
 
-Search test body for workspace v1. Unique body token: cobaltwrenv1. Git body token: tidecrestgit.
+Search test body for workspace v1. Unique body token: cobaltwrenv1. Git body token: tidecrestgit. Variable: <span data-variable="ltsrchvar">{{variable.ltsrchvar}}</span>

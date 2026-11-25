@@ -27,6 +27,11 @@
       "value": "ltrg 3"
     },
     {
+      "name": "ltsrchvar",
+      "global": true,
+      "value": "glintmarlinold"
+    },
+    {
       "name": "xb_vara",
       "global": true,
       "value": "xb var a value"

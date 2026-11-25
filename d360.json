@@ -74,7 +74,11 @@
         { "langs": ["en"], "path": "how-to-guides/README.md" }
       ],
       "children": [
-          { "paths": [ { "langs": ["en"], "path": "xn1-placed.md" } ] },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xn1-placed.md" }
+          ]
+        },
         {
           "paths": [
             { "langs": ["en"], "path": "how-to-guides/how-to-guides-1.md" }
@@ -349,12 +353,27 @@
       "paths": [
         { "langs": ["en"], "path": "xk3-cat-a/README.md" }
       ],
-      "children": [{ "paths": [ { "langs": ["en"], "path": "xk3-cat-b/README.md" } ] },
+      "children": [
         {
           "paths": [
             { "langs": ["en"], "path": "xk3-cat-a/xk3-art-1.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "xk3-cat-b/README.md" }
+          ]
         }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xn1-cat-n/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xn1-cat-m/README.md" }
       ]
     }
   ]

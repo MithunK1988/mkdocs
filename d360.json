@@ -38,7 +38,7 @@
                             {
                               "paths": [
                                 { "langs": ["en", "fr"], "path": "ltc-depth-1/ltc-depth-2/ltc-depth-3/ltc-depth-4/ltc-depth-5/ltc-depth-6/ltc-depth-7/README.md" }
-                              ], "children": [ { "paths": [ { "langs": ["en"], "path": "xn1-depth-8/README.md" } ] } ]
+                              ]
                             }
                           ]
                         }

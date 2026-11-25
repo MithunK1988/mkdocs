@@ -432,6 +432,123 @@
       "paths": [
         { "langs": ["en"], "path": "api-reference/ltc-git-api/README.md" }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "edge-25nov/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e01-markdown-10k.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e01-markdown-10k-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e02-wysiwyg-10k.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-e02-wysiwyg-10k-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-long-title-that-keeps-going-well-past-the-eighty-character-path-segment-lim.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-long-title-that-keeps-going-well-past-the-eighty-character-path-segment-l-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-long-title-that-keeps-going-well-past-the-eighty-character-path-segment-l-3.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/edge-long-title-that-keeps-going-well-past-the-eighty-character-path-segment-l-4.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/untitled.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/untitled-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/1-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/article-de66710e.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/article-953fb823.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/con-page.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/con-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/setup.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/setup-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/setup-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/setup-3.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/cafe-unicode.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "edge-25nov/cafe-unicode-1.md" }
+          ]
+        }
+      ]
     }
   ]
 }

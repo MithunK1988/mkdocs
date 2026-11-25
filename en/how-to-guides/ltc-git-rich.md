@@ -1,6 +1,6 @@
 ---
 title: ltc git rich (A renamed)
-hidden: true
+hidden: false
 seo:
   title: ltc git rich (A renamed)
 status:

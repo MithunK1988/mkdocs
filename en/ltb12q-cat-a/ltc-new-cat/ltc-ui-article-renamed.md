@@ -6,8 +6,6 @@ display:
   outline: true
 feedback:
   comments: true
-relatedArticles:
-  - guid: 2d959b83-491b-46f6-94a7-78034c77eee8
 ---
 
 [d360]: # 'snippet name="ltb12qsnip1"'

@@ -13,7 +13,7 @@ Intro para with special chars: NBSP[ ] ZWSP[​] tab[	] emoji 🚀 é ü 日本
 
 ## Section 1
 
-Paragraph 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Bold 1**, *italic*, ~~strike~~, [link 1](https://example.com/p/1?a=1&b=2), inline `code_1`.
+GITEDIT-E01 Paragraph 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Bold 1**, *italic*, ~~strike~~, [link 1](https://example.com/p/1?a=1&b=2), inline `code_1`.
 
 - item 1.1
   - nested 1.2
@@ -569,3 +569,6 @@ Paragraph 31: Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Bold 31
 const v31 = "31"; // comment
 ```
 
+## Git edit E01
+
+Added from GitHub with ü 日本 🚀 and a | pipe.

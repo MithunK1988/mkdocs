@@ -59,6 +59,11 @@
           "paths": [
             { "langs": ["en"], "path": "ltc-depth-1/xp2-pub-art-2.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/aud-pr-pub-1.md" }
+          ]
         }
       ]
     },

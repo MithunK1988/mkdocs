@@ -396,6 +396,33 @@
       "paths": [
         { "langs": ["en"], "path": "xp2-page-cat/README.md" }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "prd-cat-a/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "prd-cat-a/prd-art-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "prd-cat-a/prd-art-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "prd-cat-a/prd-art-3.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "prd-cat-a/prd-art-4.md" }
+          ]
+        }
+      ]
     }
   ]
 }

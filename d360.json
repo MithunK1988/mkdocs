@@ -103,6 +103,11 @@
           "paths": [
             { "langs": ["en"], "path": "getting-started-guides/aud-wf-review-361093.md" }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "getting-started-guides/aud-subset-pub.md" }
+          ]
         }
       ]
     },

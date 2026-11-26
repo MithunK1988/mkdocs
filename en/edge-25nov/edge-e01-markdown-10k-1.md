@@ -13,7 +13,7 @@ Intro para with special chars: NBSP[ ] ZWSP[​] tab[	] emoji 🚀 é ü 日本
 
 ## Section 1
 
-GITEDIT-E01 Paragraph 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Bold 1**, *italic*, ~~strike~~, [link 1](https://example.com/p/1?a=1&b=2), inline `code_1`.
+GITCONF GITEDIT-E01 Paragraph 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit. **Bold 1**, *italic*, ~~strike~~, [link 1](https://example.com/p/1?a=1&b=2), inline `code_1`.
 
 - item 1.1
   - nested 1.2

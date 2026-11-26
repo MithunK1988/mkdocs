@@ -1,7 +1,7 @@
 ---
-title: ltrv X
+title: ltrv X xp2
 seo:
-  title: ltrv X
+  title: ltrv X xp2
 display:
   toc: true
   outline: true

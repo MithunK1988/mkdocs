@@ -49,6 +49,16 @@
               ]
             }
           ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/xp2-pub-art-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/xp2-pub-art-2.md" }
+          ]
         }
       ]
     },
@@ -375,6 +385,11 @@
     {
       "paths": [
         { "langs": ["en", "fr"], "path": "xn1-cat-m/README.md" }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "xp2-page-cat/README.md" }
       ]
     }
   ]

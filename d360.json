@@ -12,6 +12,21 @@
       "children": [
         {
           "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-flags.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-badflag.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
+          ]
+        },
+        {
+          "paths": [
             { "langs": ["en"], "path": "ltc-depth-1/ltc-depth-2/README.md" }
           ],
           "children": [
@@ -65,21 +80,6 @@
                 { "langs": ["en"], "path": "ltc-depth-1/ltsrch-hidecat/ltsrch-hidecat-art-two.md" }
               ]
             }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-flags.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-badflag.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltc-depth-1/ltsrch-zephyrquill-draft.md" }
           ]
         }
       ]
@@ -186,6 +186,16 @@
       "children": [
         {
           "paths": [
+            { "langs": ["en"], "path": "ltrg-page-a/ltrg-pg-art-3.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "ltrg-page-a/ltrg-pg-art-1.md" }
+          ]
+        },
+        {
+          "paths": [
             { "langs": ["en"], "path": "ltrg-page-a/ltrg-page-b/README.md" }
           ]
         },
@@ -199,16 +209,6 @@
                 { "langs": ["en"], "path": "ltrg-page-a/ltrg-page-b/ltrg-pg-art-2.md" }
               ]
             }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltrg-page-a/ltrg-pg-art-3.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltrg-page-a/ltrg-pg-art-1.md" }
           ]
         }
       ]
@@ -300,6 +300,11 @@
         },
         {
           "paths": [
+            { "langs": ["en"], "path": "ltgap-c-user/ltgap-a2.md" }
+          ]
+        },
+        {
+          "paths": [
             { "langs": ["en"], "path": "ltui-b/README.md" }
           ],
           "children": [
@@ -313,11 +318,6 @@
         {
           "paths": [
             { "langs": ["en"], "path": "ltui-a/clone-ltui-b/README.md" }
-          ]
-        },
-        {
-          "paths": [
-            { "langs": ["en"], "path": "ltgap-c-user/ltgap-a2.md" }
           ]
         }
       ]
@@ -546,6 +546,40 @@
         {
           "paths": [
             { "langs": ["en"], "path": "edge-25nov/cafe-unicode-1.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "rv-cat-a/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rv-cat-a/rv-art-1.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rv-cat-a/rv-art-3.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "rv-cat-b/README.md" }
+      ],
+      "children": [
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rv-cat-b/rv-art-2.md" }
+          ]
+        },
+        {
+          "paths": [
+            { "langs": ["en"], "path": "rv-cat-b/rv-art-4.md" }
           ]
         }
       ]

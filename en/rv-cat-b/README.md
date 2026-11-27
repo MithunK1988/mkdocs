@@ -1,7 +1,7 @@
 ---
-title: rv cat B qr686
+title: rv cat B
 seo:
-  title: rv cat B qr686
+  title: rv cat B
 display:
   toc: true
   outline: true

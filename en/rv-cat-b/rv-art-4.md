@@ -1,6 +1,6 @@
 ---
 title: rv art 4
-hidden: true
+hidden: false
 seo:
   title: rv art 4
 display:

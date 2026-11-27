@@ -1,5 +1,6 @@
 ---
 title: ltpr a1
+hidden: true
 seo:
   title: ltpr a1
 display:

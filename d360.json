@@ -553,7 +553,7 @@
             { "langs": ["en"], "path": "edge-25nov/cafe-unicode-1.md" }
           ]
         },
-          { "paths": [ { "langs": ["en"], "path": "edge-25nov/qr84-empty-body.md" } ] }
+          { "paths": [ { "langs": ["en"], "path": "edge-25nov/qr84-empty-renamed.md" } ] }
       ]
     }
   ]
